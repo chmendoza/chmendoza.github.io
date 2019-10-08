@@ -1,12 +1,16 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About me
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+![me]({{"/assets/img/linkedin_profile.jpg" | absolute_url}})
 
-### Getting Started
+I am a Ph.D. student at the [Department of Electrical and Computer Engineering][ECE] of
+the University of Delaware. I am currently doing research under the supervision
+of Dr. [Austin J. Brockmeier][AJB].
 
 
-### Example Content
 
+
+[ECE]: http://www.ece.udel.edu/
+[AJB]: https://www.eecis.udel.edu/~ajbrock/
