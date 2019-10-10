@@ -1,4 +1,5 @@
 ---
+name: Blogs 
 layout: page
 title: Writing
 ---

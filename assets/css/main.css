@@ -376,7 +376,7 @@ th, td {
 	color: #f39c12;
 }
 
-.fa-twitter {
+/*.fa-twitter {
   padding: 5px;
 	-o-transition:.5s;
   	-ms-transition:.5s;
@@ -400,7 +400,7 @@ th, td {
 
 .fa-instagram:hover {
 	color: #375989;
-}
+}*/
 
 .fa-github {
   padding: 5px;
@@ -413,6 +413,18 @@ th, td {
 
 .fa-github:hover {
 	color: #343434;
+}
+
+.fa-researchgate {
+  padding: 6px;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+	font-weight: normal;
+	-webkit-font-smoothing: antialiased;
+}
+
+.fa-researchgate:hover {
+	color: #23b84b;
 }
 
 .fa-linkedin {

@@ -1,4 +1,5 @@
 ---
+name: About
 layout: page
 title: About me
 ---
