@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "ISTA"
+title: "Iterative Shrinkage Thresholding Algorithm (ISTA"
 author: "Carlos Mendoza"
 categories: math
 tags: [optimization]
+excerpt_separator: <!--more-->
 ---
-
-# Iterative Shrinkage Thresholding Algorithm (ISTA)
 
 ## The bottom line
 
@@ -25,6 +24,8 @@ $$
 x^{k+1} = S_{\lambda}(x^k - \lambda^k\nabla f(x^*)),
 \end{equation}
 $$
+
+<!--more-->
 
 where $$S_{\lambda}$$ is the soft thresholding operator, defined as
 
